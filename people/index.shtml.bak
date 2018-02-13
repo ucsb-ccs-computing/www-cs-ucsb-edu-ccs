@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us">
+<head>  
+  <title>CCS CS Program: Faculty</title>
+  <link href="../style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!--#include virtual="../head.html" -->
+
+
+
+<div id="main">
+
+<h1>Faculty</h1>
+
+<div id="people">
+
+<table>
+
+<tbody>
+
+<tr><th style="width: 110px;"></th><th>Name</th><th>Office</th><th>Mail</th></tr>
+
+<tr><td style="width: 110px;"><img src="pete2009-1-9.jpg" width=100% alt="Cappello photo"></td><td><a href="http://cs.ucsb.edu/~cappello">Peter Cappello</a></td><td>2157 Harold Frank Hall</td><td>cappello at cs dot ucsb dot edu</td></tr>
+
+<tr><td style="width: 110px;"><img src="phill.jpg" width=100% alt="Conrad photo"></td><td><a href="http://cs.ucsb.edu/~pconrad">Phillip Conrad</a><br>&nbsp;</td><td>CCS Rm. 139<br>1113 Harold Frank Hall</td><td>pconrad at cs dot ucsb dot edu</td></tr>
+
+<tr><td style="width: 110px;"><img src="omer.jpg" width=100% alt="Egecioglu photo"></td><td><a href="http://cs.ucsb.edu/~omer">Omer Egecioglu</a></td><td>2115 Harold Frank Hall</td><td>omer at cs dot ucsb dot edu</td></tr>
+
+<tr><td style="width: 110px;"><img src="murat.jpg" width=100% alt="Karaorman photo"></td><td><a href="http://www.facebook.com/people/Murat_Karaorman/575223948">Murat Karaorman</a></td><td>CCS Rm. 139</td><td>murat.karaorman at ccs dot ucsb dot edu</td></tr>
+
+<tr><td style="width: 110px;"><img src="tim.jpg" width=100% alt="Sherwood photo"></td><td><a href="http://cs.ucsb.edu/~sherwood">Tim Sherwood</a></td><td>1119 Harold Frank Hall</td><td>sherwood at cs dot ucsb dot edu</td></tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+
+<!--#include virtual="../foot.shtml" -->
+
+</body>
+</html>

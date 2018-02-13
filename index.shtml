@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us">
+<head>  
+  <title>CCS CS Program</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!--#include virtual="head.html" -->
+
+<div id="main">
+
+<h1>Welcome</h1>
+
+<p>
+The Computer Science Program shares the College of Creative Studies 
+<a href="http://www.ccs.ucsb.edu/welcome/">Vision</a> and 
+<a href="http://www.ccs.ucsb.edu/mission_statement/">Mission</a>.
+It bridges the gap between traditional computer 
+science curricula and the lively, rapidly changing universe of computing at large. It is personalized to 
+challenge each student and develop to the utmost his or her knowledge and creativity. The program is aimed at 
+highly ambitious students with a demonstrated talent in computer science who are interested in exploring and 
+contributing to the field. Many students in the CCS computer science program are also interested in other 
+scientific fields, and concurrently pursue studies in another program, such as physics and/or mathematics. 
+Collaboration with the Computer Science Department in the College of Engineering offers a stimulating and 
+supportive environment and provides access to a number of laboratories and powerful computing platforms.
+</p>
+
+<p>
+CCS computer science students start their studies by following an accelerated curriculum covering the mathematical 
+foundations of computer science and programming techniques. This background paves the way to upper-division 
+courses covering preparatory material for diverse specializations such as networks, distributed computing, 
+computational theory, algorithm design, computer graphics, compilers, and database theory. Advanced courses 
+provide both the depth and the breadth necessary for graduate-level research at top-ranked institutions in the 
+United States and abroad.
+</p>
+
+<p>
+Early in their studies, CCS computer science students can participate in innovative and challenging research 
+projects that are typically reserved for graduate students. These range from purely theoretical studies to 
+programming parallel computers for important applications in other fields of science.
+</p>
+
+<h2>Computer Science Program Mission</h2>
+
+<p>
+Recruit the most talented and imaginative undergraduates, and provide them with the intellectual environment and 
+advice that enables them to transition quickly from consumers of computer science knowledge to producers of such 
+knowledge, that is, creative computer science colleagues.
+</p>
+	
+<h2>Computer Science Program Goals</h2>
+
+<ul>
+
+    <li>Vigorously identify and recruit students possessing productive and original minds from California and beyond;</li>
+
+    <li>Enter each student in an intensive program of course work tailored to his or her strengths, goals, and creative interest;</li>
+
+    <li>Provide these students with consistent, individual assistance from committed staff and faculty as they develop their own sense of purpose and direction;</li>
+
+    <li>Offer small classes on subjects where students interact and develop a sense of the creative endeavor;</li>
+
+    <li>Facilitate original work by students, starting in their freshman year, under the direction of CCS faculty, COE Computer Science faculty, and faculty from departments in the Colleges of Letters &amp; Science and Engineering;</li>
+
+    <li>Assure that each graduate completes a body of original work, in the form of a report of completed scientific research.</li>
+
+</ul>
+
+<!--#include virtual="foot.shtml" -->
+
+</body>
+</html>

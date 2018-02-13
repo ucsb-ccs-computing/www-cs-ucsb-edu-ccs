@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us">
+<head>  
+  <title>CCS CS Program: Requirements</title>
+  <link href="../style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!--#include virtual="../head.html" -->
+
+<div id="main">
+
+<h1>Requirements</h1>
+
+<p>
+Below, we state the course requirements for the College of Creative Studies Bachelor of Science in Computer Science.
+In addition to our B.S. program, we have a 
+<a href="BSMS.shtml">5-year B.S.-M.S. Computer Science program</a>, 
+where the B.S. is from the College of Creative Studies and the M.S. is from the College of Engineering.
+</p>
+
+<h2>Courses</h2>
+
+<h3> Lower Division</h3>
+
+<h4>Mathematics</h4>
+
+<ul>
+  <li>Math 3A-B-C -- 12 units</li>
+  <li> Math 5A-B -- 8 units</li>
+  <li>PSTAT 120A - 4 units</li>
+</ul>
+
+<h4>Science</h4>
+
+<p>
+Twenty units from the following list, including at least 1 laboratory course:
+
+<ul>
+  <li>Physics: 1, 2, 3 &amp; 3L, 4 &amp; 4L, 5 &amp; 5L</li>
+  <li>Chemistry: 1A &amp; 1AL, 1B &amp; 1BL, 1C &amp; 1CL</li>
+  <li> Molecular, Cellular, &amp; Developmental Biology: 1A &amp; 1AL</li>
+  <li> Molecular, Cellular, &amp; Developmental Biology: 1B &amp; EEMB 2 &amp; (1BL or 2L)</li>
+</ul>
+
+<h4>Computer Science</h4>
+
+<ul>
+  <li>CCS CS 1A &amp; L</li>
+  <li>CCS CS 2</li>
+</ul>
+
+<p>
+They also are required to take those CCS computer science courses, and
+any other UCSB courses, that the student's faculty advisor deems
+necessary. This aspect of the curriculum is tailored for each
+student.
+</p>
+
+<p>
+In the mathematics and science courses listed above, students may
+instead take a CCS course that their advisor deems acceptable. Some of
+the requirements above also can be met via <i>advanced placement</i> (please see the General Catalog).
+</p>
+
+<h3> Upper Division</h3>
+
+<p>
+The upper division requirements equal those for the 
+<a href="http://cs.ucsb.edu/undergraduate/requirements/">B.S. in computer science in the College of Engineering</a>. 
+These include the Major requirements, the Major Field Electives, and the Ethics requirement.
+However, CCS students are not required to satisfy the formal prerequisites for the upper division courses that
+they take. Rather, they meet with their CCS faculty advisor each quarter, and obtain approval for their planned 
+course of study for the next quarter.
+</p>
+
+<p>
+Under exceptional circumstances, certain upper division CS course requirements may be
+<i>waived</i>. Examples of such circumstances include a case in
+which a student has completed advanced work or research in the topic of
+the course(s), or has arranged to take a more advanced
+course. All such waivers require written advisor approval.
+</p>
+
+<h3>General Requirements <a href="Jan08CcsGraduationGeRequirements.doc">(Word)</a></h3>
+
+<h2>Mid-Residency Review</h2>
+
+<p>
+The CCS/CS Program views the mid residency review as a mid-course adjustment, which provides the student with 
+a bigger picture than quarterly individual advising provides. 
+It is meant to give them a chance to report on their progress, reflect on what they have set out to do, 
+what they have accomplished so far and where they want to go, and to make sure that their progress is aligned 
+with the goals of the CCS Computer Science Program.
+</p>
+
+<p>
+The procedure for the mid-residency review for CCS/CS students was determined in 2006 by a joint meeting of the 
+faculty and CCS students. As a mid-residency review, an oral presentation by the student in which a majority of
+CCS CS faculty is present is conducted. The student's peers are invited to take part in the presentation,
+which should be about 20 minutes. CCS/CS students are expected to proceed with this review at the end of the fifth
+quarter of their studies in the CCS Computer Science program. The review takes place sometime towards the end 
+of the finals week of the winter quarter of each year.
+</p>
+
+<p>
+After the public part of the presentation, the faculty meet briefly to discuss the student's progress and to 
+make recommendations. The faculty may choose to have an informal private meeting with the student. Based on the 
+meeting and the ensuing discussion, the student is notified if there are concerns about progress and the 
+appropriateness of the CCS Program for the student. If this is the case, specific advising guidelines and 
+academic goals will be agreed upon in consultation with the student. Formal feedback to the student is 
+provided and a written memorandum is placed in the student's file with a copy to the student.
+</p>
+
+<p>
+CCS students felt that informal feedback from peers and during the public part of the review would be invaluable. 
+No written comments from the student's peers will be solicited, as some issues were voiced as to the 
+appropriateness of this.
+</p>
+
+
+<!--#include virtual="../foot.shtml" -->
+
+</body>
+</html>

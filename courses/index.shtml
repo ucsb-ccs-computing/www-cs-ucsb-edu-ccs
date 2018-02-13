@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us">
+<head>  
+  <title>CCS CS Program: Courses</title>
+  <link href="../style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!--#include virtual="../head.html" -->
+
+<div id="main">
+
+<h1>Courses</h1>
+
+<h2>Core Courses</h2>
+
+<p>
+	All core courses are required for all incoming CCS Computer Science freshmen.
+</p>
+
+<h3>1A: Computer Programming &amp; Organization - A</h3>
+
+<p>
+	Although class space may be acquired via GOLD, final enrollment will be determined by the instructor.
+</p>
+
+<p>
+	This course is the first half of a two quarter sequence (CS1A/CS1B) designed to prepare students to take upper division courses in Computer Science, 
+	and participate in undergraduate research projects in Computer Science under the direction of CCS and College of Engineering Computer Science faculty.
+</p>
+
+<p>
+	In both quarters, the course is paired with CS1L, "Programming Lab", 
+	where students undertake individual and group programming projects to build and reinforce their skills and knowledge.
+</p>
+
+<p>
+	CS1A provides students with the opportunity to build skills and knowledge in the following areas: 
+	problem solving and algorithm development, Java, C and C++ programming, software development tools, 
+	programming language paradigms (structured, functional and object-oriented programming), basic UNIX
+	utilities and tools, basic data structures including arrays and linked lists representations of 
+	lists, stacks, queues, and binary trees, binary and linear search, sorting techniques, 
+	iteration vs. recursion, basic running
+	time analysis, data representation.
+</p>
+
+<p>
+	In addition to basic skills in C, C++, and Java (which is a fundamental preparation for upper division CS courses at UCSB), 
+	other programming languages, such as Scheme, Python, and JavaScript, may be explored either because of the principles they illustrate, 
+	or based on student interest.
+</p>
+
+<!--
+<p>
+ Topics in programming and the organization of computers, including algorithms, 
+data and control structures, program design, searching and sorting, recursion, 
+systems programming, register transfer language, and logic design.
+</p>
+
+<!-- <p>Full description: <img src="doc.gif" alt="full description" border="0" /> -->
+
+<h3>1B: Computer Programming &amp; Organization - B</h3>
+
+<p>
+Topics in programming and the organization of computers, including algorithms, 
+data and control structures, program design, searching and sorting, recursion, 
+systems programming, register transfer language, and logic design.
+</p>
+
+<!-- <p>Full description: <img src="doc.gif" alt="full description" border="0" /> -->
+
+<h3>1L: Computer Programming Laboratory</h3>
+
+<p>
+A hands-on project and assignment-based course that will be primarily taught in 
+the CSIL Laboratory of the Computer Science Department. 
+The principle emphasis of the course will be to gain strong practical and technical skills in C, C++, 
+and Java programming, UNIX: shell, tools, utilities and programming environments. 
+Further emphasis will be on algorithms, user interfaces, and software engineering principles.
+
+The course is open to all CCS students who need additional training and practical insight that 
+is needed to take upper division Computer Science Courses.
+</p>
+
+<!--  <p>Full description: <img src="doc.gif" alt="full description" border="0" /> -->
+
+<h3>2: Foundations of Computer Science</h3>
+
+<p>
+	Mathematical foundations of computer science: Introduction to propositional logic, 
+	predicate logic, proof methods including mathematical induction, set theory, 
+	relations including functions, counting techniques including inclusion-exclusion 
+	and elementary generating functions.
+</p>
+
+<!-- <p>Full description: <a href="2.shtml"><img src="doc.gif" alt="full description" border="0" /></a> -->
+
+<h2>Elective Courses</h2>
+
+<p>
+The main CCS web site lists all <i>current</i> courses.
+Not all elective courses are offered routinely. .
+</p>
+
+<!-- <p>We describe below some that are</p> -->
+
+<!--#include virtual="../foot.shtml" -->
+
+</body>
+</html>

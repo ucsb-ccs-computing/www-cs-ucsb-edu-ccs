@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us">
+<head>  
+  <title>CCS CS Course Description: 2. Foundations of Computer Science</title>
+  <link href="../style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!--#include virtual="../head.html" -->
+
+<div id="main">
+
+
+<h1>CCS CS 2: Foundations of Computer Science</h1>
+
+<h2>Administrative information</h2>
+
+<table>
+    <tr>
+        <th style="text-align: right">Number of Units:</th><td>1 - 6</td>      
+    </tr>
+    <tr>
+        <th style="text-align: right">Coordinator:</th><td>Professor Omer Ecegioglu</td>      
+    </tr>
+</table>
+
+<h2>Textbook &amp; other required material</h2>
+
+<ul>
+    
+    <li>
+        <b>Discrete Mathematics and Its Applications</b>, 6th edition, Kenneth Rosen, McGraw-Hill, 
+        ISBN-13 978-0-07-288008-3, ISBN-10-0-07-288008-2, 2007.
+    </li>
+
+</ul>
+
+<h2>Course Outcomes</h2>
+
+<p>Enumerate the course outcomes.</p>
+
+<ul>
+    
+    <li></li>
+
+</ul>
+
+<h2>Syllabus</h2>
+
+<p>Enumerate the course topics.</p>
+
+<ul>
+    
+    <li></li>
+
+</ul>
+
+
+<!--#include virtual="../foot.shtml" -->
+
+</body>
+</html>

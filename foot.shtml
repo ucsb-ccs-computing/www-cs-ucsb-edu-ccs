@@ -1,0 +1,31 @@
+</div> <!-- end main -->
+
+<div id="navbar">
+
+  <div id="box">
+
+    <table>
+
+      <tbody>
+
+        <tr>
+
+          <td style="text-align: left;">
+            &nbsp;<a href="mailto:cappello@cs.ucsb.edu" class="nounderline">cappello@cs.ucsb.edu</a>
+          </td>
+
+          <td style="text-align: right;">
+            <!--#config timefmt="%Y.%m.%d" --><!--#echo var="LAST_MODIFIED" -->&nbsp; 
+          </td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </div> <!-- end box -->
+
+</div> <!-- end navbar -->
+
+</div> <!-- end container-->

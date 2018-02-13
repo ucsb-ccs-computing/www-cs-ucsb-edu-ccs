@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us">
+<head>  
+  <title>CCS CS Program: People</title>
+  <link href="../../style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!--#include virtual="../../head.html" -->
+
+<!--#include virtual="../subhead.html" -->
+
+<div id="main">
+
+<h1>Current Students</h1>
+
+<table>
+
+<tbody>
+
+<tr><th>Photo</th><th>Name</th><th>Mail</th></tr>
+<tr><td> </td><td>Collin Anderson</td><td> </td></tr>
+<tr><td> </td><td>Steven M. Boyd</td><td> </td></tr>
+<tr><td> </td><td>David Cattan</td><td> </td></tr>
+<tr><td> </td><td>Joshua Cohen</td><td> </td></tr>
+<tr><td> </td><td>Abhishek Neal Das</td><td> </td></tr>
+<tr><td> </td><td>Sean M. Finch</td><td> </td></tr>
+<tr><td> </td><td>Andrew Franklin</td><td> </td></tr>
+<tr><td> </td><td>Jeremiah Hankins</td><td> </td></tr>
+<tr><td> </td><td>Matthew Hubert</td><td> </td></tr>
+<tr><td> </td><td>Benjamin Mackey</td><td> </td></tr>
+<tr><td> </td><td>Sunil Menon</td><td> </td></tr>
+<tr><td> </td><td>Carl Minden</td><td> </td></tr>
+<tr><td> </td><td>Hans Nielsen</td><td> </td></tr>
+<tr><td> </td><td>Maxwell Radomsky</td><td> </td></tr>
+<tr><td> </td><td>Timothy Rodriguez</td><td> </td></tr>
+<tr><td> </td><td>Matthew Shayefar</td><td> </td></tr>
+<tr><td> </td><td>Matthew Sherman</td><td> </td></tr>
+<tr><td> </td><td>Jacob Topper</td><td> </td></tr>
+<tr><td> </td><td>Cody Walker</td><td> </td></tr>
+<tr><td> </td><td>Ian Whitfield</td><td> </td></tr>
+<tr><td> </td><td>Timothy Wood</td><td> </td></tr>
+<tr><td> </td><td>Ryan Woodward</td><td> </td></tr>
+
+</tbody>
+
+</table>
+
+
+<!--#include virtual="../../foot.shtml" -->
+
+</body>
+</html>
