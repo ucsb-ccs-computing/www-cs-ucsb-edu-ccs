@@ -13,76 +13,7 @@
 
 <h1>Schedule</h1>
 
-<p>Although each student's course plan is personalized, we provide below a customary course plan template.</p>
-
-<p>
-(A customary course plan template will go below. For now, the stuff below is basically a placeholder.
-But, in the senior year, we probably should load it with graduate courses. 
-
-Also, on the web site, we should advertise the CCS-COE 5-year B.S.-M.S. plan, 
-which essentially every CCS student should be eligible for. Perhaps this is another CS program goal.)
-</p>
-
-
-<table>
-
-  <tbody>
-
-    <tr><th>Year</th><th colspan="2">Fall</th><th colspan="2">Winter</th><th colspan="2">Spring</th></tr>
-    <tr><th> </th><th>Course</th><th>Units</th><th>Course</th><th>Units</th><th>Course</th><th>Units</th></tr>
-
-    <tr>
-        <td>Freshman</td>
-        <td>Math 3A<br>CCS CS 1A<br>CCS CS 1L<br>CCS CS 2</td>
-        <td>4<br>4<br>2<br>4</td>
-        <td>Math 3B<br>CCS CS 1B<br>CCS CS 1L<br>Writing requirement</td>
-        <td>4<br>4<br>2<br>4</td>
-        <td>Math 3C<br>CCS CS elective<br>Science elective<br></td>
-        <td>4<br>4<br>4<br></td>
-    </tr>
-
-    <tr>
-        <td>Sophomore</td>
-        <td>Math 5A<br>CMPSC 130A<br>CMPSC 138<br>Science elective</td>
-        <td>4<br>4<br>2<br>4</td>
-        <td>Math 5B<br>CMPSC 130B<br>ECE 152A<br>Science elective</td>
-        <td>4<br>4<br>4<br>4</td>
-        <td>PSTAT 120A<br>CMPSC/ECE 154<br>Field elective<br>Science elective</td>
-        <td>4<br>4<br>4<br>4</td>
-    </tr>
-
-    <tr>
-        <td>Junior</td>
-        <td>PSTAT 120B<br>CMPSC 111/140<br>CMPSC 138<br>Field elective</td>
-        <td>4<br>4<br>2<br>4</td>
-        <td>CMPSC 170<br>Field elective<br>Science elective<br>Eng 101</td>
-        <td>4<br>4<br>4<br>3</td>
-        <td>Field elective<br>Field elective<br>General elective</td>
-        <td>4<br>4<br>4</td>
-    </tr>
-
-    <tr>
-        <td>Senior</td>
-        <td> <br> <br> <br> </td>
-        <td>4<br>4<br>2<br>4</td>
-        <td> <br> <br> </td>
-        <td>4<br>4<br>4<br>3</td>
-        <td> <br> <br> </td>
-        <td>4<br>4<br>4</td>
-    </tr>
-
-  </tbody>
-
-</table>
-
-<h2>Personal Plan</h2>
-
-<p>
-In consultation with their adviser, students complete a course plan: 
-<a href="CoursePlan.doc">Word</a> or <a href="CoursePlan.pdf">PDF</a>.
-This plan can be updated at any time with the approval of their adviser.
-</p>
-
+<p>For information about the CCS program in Computing, please visit: <a href="https://ccs.ucsb.edu">https://ccs.ucsb.edu</a>.</p>
 
 <!--#include virtual="../foot.shtml" -->
 
